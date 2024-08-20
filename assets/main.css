@@ -14,19 +14,18 @@ header {
 
 nav {
   background-color: #444;
-  color: #fff;
-  padding: 10px 0;
   position: absolute;
   /* top: 0;
-  right: 50px;
   bottom: 0;
-  left: 0; */
+  left: 0;
+  right: 50px; */
   inset: 0 50px 0 0;
   transition: .3s;
+  transform: translateX(-100%);
 }
 
-nav.closed {
-  transform: translateX(-100%);
+nav.open {
+  transform: translateX(0%);
 }
 
 main {
