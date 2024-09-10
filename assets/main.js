@@ -25,3 +25,5 @@ async function listaPersonagens() {
 }
 
 listaPersonagens()
+
+// https://rickandmortyapi.com/api/character
