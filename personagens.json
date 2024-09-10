@@ -1,0 +1,42 @@
+[
+  {
+    "nome": "Hall 9000",
+    "hostilidade": 0.8
+  },
+  {
+    "nome": "R2D2",
+    "hostilidade": 0.1
+  },
+  {
+    "nome": "C3PO",
+    "hostilidade": 0.2
+  },
+  {
+    "nome": "Marvin",
+    "hostilidade": 0.9
+  },
+  {
+    "nome": "Data",
+    "hostilidade": 0.3
+  },
+  {
+    "nome": "Bender",
+    "hostilidade": 0.7
+  },
+  {
+    "nome": "K9",
+    "hostilidade": 0.4
+  },
+  {
+    "nome": "T-800",
+    "hostilidade": 0.6
+  },
+  {
+    "nome": "Robby",
+    "hostilidade": 0.5
+  },
+  {
+    "nome": "Optimus Prime",
+    "hostilidade": 0.4
+  }
+]
